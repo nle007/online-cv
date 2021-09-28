@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: NLE
+    tagline: Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,23 +28,23 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Norwegian
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Russian
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Gym
         link:
 
-      - item: Snowboarding
+      - item: Economics
         link:
 
-      - item: Cooking
+      - item: Video Games
         link:
 
 career-profile:
@@ -57,9 +57,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Mid utdanning
-      university: University of London
-      time: 2011 - 2012
+    - degree: Min utdanning
+      university: UiT Norges arktiske universitet
+      time: 2020 - 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +68,9 @@ education:
         pretium quis, sem.
           - 123
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Economics
+      university: UiT Norges arktiske universitet
+      time: 2020 - 2023
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -170,21 +170,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R
+        level: 40%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 30%
 
-      - name: Angular
-        level: 98%
+      - name: Excel
+        level: 22%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: 
+        level: 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: 
+        level:
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 
+        level: 
 
