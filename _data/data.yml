@@ -59,7 +59,7 @@ career-profile:
 education:
     - degree: Min utdanning
       university: UiT Norges arktiske universitet
-      time: 2020 - 
+      time: 2020 - 2023
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -179,12 +179,5 @@ skills:
       - name: Excel
         level: 22%
 
-      - name: 
-        level: 
-
-      - name: 
-        level:
-
-      - name: 
-        level: 
+ 
 
